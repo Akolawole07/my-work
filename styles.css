@@ -648,7 +648,7 @@
         .about-image {
             width: 100%;
             height: 500px;
-            background: url('jpegs/imagesphoto4.jpg') center/cover;
+            background: url('images/photo4.jpg') center/cover;
             border-radius: 30px;
             position: relative;
             overflow: hidden;
@@ -767,27 +767,27 @@
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('jpegs/imagesphoto1.jpg');
+            background-image: url('images/photo1.jpg');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
-            background-image: url('jpegs/imagesphoto2.jpg');
+            background-image: url('images/photo2.jpg');
         }
 
         .portfolio-item:nth-child(3) .portfolio-image {
-            background-image: url('jpegs/imagesphoto3.jpg');
+            background-image: url('images/photo3.jpg');
         }
 
         .portfolio-item:nth-child(4) .portfolio-image {
-            background-image: url('jpegs/imagesphoto7.jpg');
+            background-image: url('images/photo7.jpg');
         }
 
         .portfolio-item:nth-child(5) .portfolio-image {
-            background-image: url('jpegs/imagesphoto5.jpg');
+            background-image: url('images/photo5.jpg');
         }
 
         .portfolio-item:nth-child(6) .portfolio-image {
-            background-image: url('jpegs/imagesphoto6.jpg');
+            background-image: url('images/photo6.jpg');
         }
 
         .portfolio-image::before {
@@ -1197,4 +1197,5 @@
             .container {
                 padding: 0 1rem;
             }
+
         }
